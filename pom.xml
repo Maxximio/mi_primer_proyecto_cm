@@ -3,4 +3,16 @@
   <groupId>programacion.avanzada.uce</groupId>
   <artifactId>mi_primer_proyecto_cm</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+    <!-- https://mvnrepository.com/artifact/com.oracle.jdbc/com.springsource.oracle.jdbc -->
+	<dependency>
+    	<groupId>org.springframework</groupId>
+    	<artifactId>spring-context</artifactId>
+    	<version>4.2.0.RELEASE</version>
+	</dependency>
+    
+	
+  </dependencies>
+  
 </project>
